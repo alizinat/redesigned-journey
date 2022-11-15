@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584514429815",
+    "project_id": "nhs-app-5154c",
+    "storage_bucket": "nhs-app-5154c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584514429815:android:06a9bce6a61a094fb67772",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.aad.nhs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584514429815-7se59tbl4bd20okldiv295ebhvrr6ao4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb8_jXPS1zb0DWEj86Fxnm4WgfWnxx5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584514429815-7se59tbl4bd20okldiv295ebhvrr6ao4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
